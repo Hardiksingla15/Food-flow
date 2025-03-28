@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="icon" href="images/foodflow1.jpg">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Food Flow | Chinabox</title>
+    <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+</head>
+<body>
+    <header class="header">
+        <div class="header-content">
+            <h1>Food Flow</h1>
+            <div class="search-container">
+                <input type="text" placeholder="Search for restaurant, cuisines or a dish">
+                <i class="fas fa-search"></i>
+            </div>
+            <div class="auth-buttons">
+                <a href="login.html" class="login-btn">Log in</a>
+                <a href="signup.html" class="signup-btn">Sign up</a>
+            </div>
+        </div>
+    </header>
+
+    <main>
+        <section class="restaurant-info">
+            <div class="info-content">
+                <div class="info-text">
+                    <h1>Chinabox</h1>
+                    <p class="cuisine">Chinese</p>
+                    <p class="location">
+                        <i class="fas fa-map-marker-alt"></i>
+                        Chitkara University, Rajpura
+                    </p>
+                    <div class="rating">
+                        <span class="rating-badge">
+                            <i class="fas fa-star"></i>
+                            4.0
+                        </span>
+                        <span class="phone">
+                            <i class="fas fa-phone"></i>
+                            9890038xxx
+                        </span>
+                    </div>
+                </div>
+                <img src="images/chinabox.png" alt="Restaurant Logo" class="restaurant-logo">
+            </div>
+        </section>
+
+        <section class="gallery">
+            <div class="gallery-grid">
+                <div class="gallery-item main">
+                    <img src="images/manchuriyan.jpg" alt="Butter Paneer">
+                </div>
+                <div class="gallery-item">
+                    <img src="images/noodles.jpg" alt="Naan">
+                </div>
+                <div class="gallery-item">
+                    <img src="images/shakes.jpg" alt="Rice">
+                </div>
+                <div class="gallery-item">
+                    <img src="images/springroll.jpg" alt="Chaap">
+                </div>
+            </div>
+        </section>
+
+        <!-- Menu Section where menu items will be rendered -->
+        <section class="menu">
+            <h2>Menu</h2>
+            <div class="menu-items" id="menuItems">
+                <!-- Menu items will be rendered here dynamically -->
+            </div>
+        </section>
+
+        <!-- Cart Section -->
+        <section class="cart">
+            <h2>Your Cart</h2>
+            <div id="cartItems" class="cart-items">
+                <!-- Cart items will be dynamically rendered here -->
+            </div>
+            <div id="totalBill" class="total-bill">
+                
+                <!-- Total Bill will be dynamically updated here -->
+                Total Bill: ₹0
+            </div>
+        </section>
+    </main>
+
+    <script src="chinabox.js"></script>
+</body>
+</html>

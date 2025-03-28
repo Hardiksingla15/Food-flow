@@ -1,0 +1,651 @@
+.header{
+    height:150px;
+    background-color: #ffffff;
+    box-shadow: 1px 5px 10px 1px rgb(221, 220, 220);
+}
+.header h1{
+    position: absolute;
+    top: 0px;
+    left: 250px;
+    font-size: 40px;
+
+}
+
+.search{
+    padding: 8px;
+    display: flex;
+    background-color: white;
+    width: 380px;
+    height: 40px;
+    position: absolute;
+    top: 20px;
+    left: 480px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 15px 1px  black;
+   
+
+   
+}
+.search input{
+    position: absolute;
+    left: 30px;
+    font-size: 15px;
+    width: 360px;
+    height: 40px;
+    border: none;
+    outline: none;
+}
+
+.search i{
+    color: grey;
+    position: absolute;
+    top: 20px;
+    font-size: larger;
+    font-weight: bolder;
+}
+.features{
+    position: absolute;
+    display: flex;
+    top: 38px;
+    right: 390px;
+    font-size: 23px;
+}
+.signup{
+    position: absolute;
+    right: -130px;
+}
+
+.container{
+    position: absolute;
+    top: 185px;
+    left: 120px;
+    height: 350px;
+    justify-content: space-between;
+    
+}
+
+.container h2{
+    position: absolute;
+    left: 30px;
+}
+
+.container2{
+    position: absolute;
+    top: 500px;
+    width: 100%;
+    height: 500px;
+    background-color: rgb(255, 255, 255);
+}
+
+.container2 h1{
+    position: absolute;
+    left: 148px;
+
+}
+
+.punjab13{
+    
+    position: absolute;
+    top: 80px;
+    left: 130px;
+    width: 300px;
+    height: 330px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 1px 1px 12px 1px black;
+    transition: 0.8s ease
+}
+.punjab13:hover{
+  transform: scale(0.94)
+
+
+}
+
+.punjabimg{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.punjab13 h2{
+    color: black;
+    position: absolute;
+    left: 15px;
+    top: 220px;
+    
+}
+.punjab13 h4{
+    color: rgb(90, 90, 90);
+    position: absolute;
+    left: 15px;
+    top: 258px;
+    font-size: small;
+    
+}
+.punjab13 h5{
+    color: rgb(90, 90, 90);
+    position: absolute;
+    right: 25px;
+    top: 255px;
+    
+
+}
+.rating{
+    font-size: 16px;
+    position: absolute;
+    right: 45px;
+    top: 245px;
+    color: white;
+    background-color: green;
+    width: 46px;
+    height: 20px;
+    border-radius: 4px;
+}
+.rating p{
+    position: absolute;
+    top: -14px;
+    left: 7px;
+}
+.rating i{
+    font-size: 8px;
+    position: absolute;
+    right:6px ;
+    top: 7px;
+}
+
+.chaivyanjan{
+    
+    position: absolute;
+    top: 80px;
+    left: 460px;
+    width: 300px;
+    height: 330px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 1px 1px 12px 1px black;
+    transition: 0.8s ease
+}
+.chaivyanjan:hover{
+    transform: scale(0.94)}
+
+.chaivyanjanimg{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.chaivyanjan h2{
+    color: black;
+    position: absolute;
+    left: 15px;
+    top: 220px;
+}
+.chaivyanjan h4{
+    color: rgb(90, 90, 90);
+    position: absolute;
+    left: 15px;
+    top: 258px;
+    font-size: small;
+    
+}
+.chaivyanjan h5{
+    color: rgb(90, 90, 90);
+    position: absolute;
+    right: 25px;
+    top: 255px;
+    
+
+}
+.chairating{
+    font-size: 16px;
+    position: absolute;
+    right: 45px;
+    top: 245px;
+    color: white;
+    background-color: green;
+    width: 46px;
+    height: 20px;
+    border-radius: 4px;
+}
+
+.chairating p{
+    position: absolute;
+    top: -14px;
+    left: 7px;
+}
+.chairating i{
+    font-size: 8px;
+    position: absolute;
+    right:6px ;
+    top: 7px;
+}
+
+    
+.dominos{
+    
+    position: absolute;
+    top: 80px;
+    right: 365px;
+    width: 300px;
+    height: 330px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 1px 1px 12px 1px black;
+    transition: 0.8s ease
+}
+.dominosimg{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.dominos:hover{
+    transform: scale(0.94)}
+
+
+
+.dominos h2{
+    color: black;
+    position: absolute;
+    left: 15px;
+    top: 220px;
+    
+}
+.dominos h4{
+    color: rgb(90, 90, 90);
+    position: absolute;
+    left: 15px;
+    top: 258px;
+    font-size: small;
+    
+}
+.dominos h5{
+    color: rgb(90, 90, 90);
+    position: absolute;
+    right: 25px;
+    top: 255px;
+    
+
+}
+.dominosrating{
+    font-size: 16px;
+    position: absolute;
+    right: 45px;
+    top: 245px;
+    color: white;
+    background-color: green;
+    width: 46px;
+    height: 20px;
+    border-radius: 4px;
+}
+.dominosrating p{
+    position: absolute;
+    top: -14px;
+    left: 7px;
+}
+.dominosrating i{
+    font-size: 8px;
+    position: absolute;
+    right:6px ;
+    top: 7px;
+}
+
+.chinabox{
+    
+    position: absolute;
+    top: 80px;
+    right: 20px;
+    width: 300px;
+    height: 330px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 1px 1px 12px 1px black;
+    transition: 0.8s ease
+}
+.chinabox:hover{
+    transform: scale(0.94)}
+
+.chinaboximg{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.chinabox h2{
+    color: black;
+    position: absolute;
+    left: 15px;
+    top: 220px;
+    
+}
+.chinabox h4{
+    color: rgb(90, 90, 90);
+    position: absolute;
+    left: 15px;
+    top: 258px;
+    font-size: small;
+    
+}
+.chinabox h5{
+    color: rgb(90, 90, 90);
+    position: absolute;
+    right: 25px;
+    top: 255px;
+    
+
+}
+.chinaboxrating{
+    font-size: 16px;
+    position: absolute;
+    right: 45px;
+    top: 245px;
+    color: white;
+    background-color: green;
+    width: 46px;
+    height: 20px;
+    border-radius: 4px;
+}
+.chinaboxrating p{
+    position: absolute;
+    top: -14px;
+    left: 7px;
+}
+.chinaboxrating i{
+    font-size: 8px;
+    position: absolute;
+    right:6px ;
+    top: 7px;
+}
+
+
+
+.southcircle{
+    position: absolute;
+    top: 430px;
+    left: 130px;
+    width: 300px;
+    height: 330px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 1px 1px 12px 1px black;
+    transition: 0.8s ease
+}
+.southcircle:hover{
+    transform: scale(0.94)}
+
+.southcircleimg{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.southcircle h2{
+    color: black;
+    position: absolute;
+    left: 15px;
+    top: 220px;
+    
+}
+.southcircle h4{
+    color: rgb(90, 90, 90);
+    position: absolute;
+    left: 15px;
+    top: 258px;
+    font-size: small;
+    
+}
+.southcircle h5{
+    color: rgb(90, 90, 90);
+    position: absolute;
+    right: 25px;
+    top: 255px;
+    
+
+}
+.southcirclerating{
+    font-size: 16px;
+    position: absolute;
+    right: 45px;
+    top: 245px;
+    color: white;
+    background-color: green;
+    width: 46px;
+    height: 20px;
+    border-radius: 4px;
+}
+.southcirclerating p{
+    position: absolute;
+    top: -14px;
+    left: 7px;
+}
+.southcirclerating i{
+    font-size: 8px;
+    position: absolute;
+    right:6px ;
+    top: 7px;
+}
+
+.sherepunjab{
+    
+    position: absolute;
+    top: 430px;
+    left: 460px;
+    width: 300px;
+    height: 330px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 1px 1px 12px 1px black;
+    transition: 0.8s ease
+}
+.sherepunjab:hover{
+    transform: scale(0.94)
+
+}
+
+
+
+.sherepunjabimg{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.sherepunjab h2{
+    color: black;
+    position: absolute;
+    left: 15px;
+    top: 220px;
+}
+.sherepunjab h4{
+    color: rgb(90, 90, 90);
+    position: absolute;
+    left: 15px;
+    top: 258px;
+    font-size: small;
+    
+}
+.sherepunjab h5{
+    color: rgb(90, 90, 90);
+    position: absolute;
+    right: 25px;
+    top: 255px;
+    
+
+}
+.sherepunjabrating{
+    font-size: 16px;
+    position: absolute;
+    right: 45px;
+    top: 245px;
+    color: white;
+    background-color: green;
+    width: 46px;
+    height: 20px;
+    border-radius: 4px;
+}
+
+.sherepunjabrating p{
+    position: absolute;
+    top: -14px;
+    left: 7px;
+}
+.sherepunjabrating i{
+    font-size: 8px;
+    position: absolute;
+    right:6px ;
+    top: 7px;
+}
+
+    
+.holyscoop{
+    
+    position: absolute;
+    top: 430px;
+    right: 365px;
+    width: 300px;
+    height: 330px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 1px 1px 12px 1px black;
+    transition: 0.8s ease
+}
+.holyscoopimg{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.holyscoop:hover{
+    transform: scale(0.94)}
+
+.holyscoop h2{
+    color: black;
+    position: absolute;
+    left: 15px;
+    top: 220px;   
+}
+
+.holyscoop h4{
+    color: rgb(90, 90, 90);
+    position: absolute;
+    left: 15px;
+    top: 258px;
+    font-size: small;
+    
+}
+
+.holyscoop h5{
+    color: rgb(90, 90, 90);
+    position: absolute;
+    right: 25px;
+    top: 255px;
+    
+
+}
+.holyscooprating{
+    font-size: 16px;
+    position: absolute;
+    right: 45px;
+    top: 245px;
+    color: white;
+    background-color: green;
+    width: 46px;
+    height: 20px;
+    border-radius: 4px;
+}
+.holyscooprating p{
+    position: absolute;
+    top: -14px;
+    left: 7px;
+}
+.holyscooprating i{
+    font-size: 8px;
+    position: absolute;
+    right:6px ;
+    top: 7px;
+}
+
+.golzza{
+    
+    position: absolute;
+    top: 430px;
+    right: 20px;
+    width: 300px;
+    height: 330px;
+    text-align: center;
+    border-radius: 8px;
+    background-color: white;
+    box-shadow: 1px 1px 12px 1px black;
+    transition: 0.8s ease
+}
+.golzza:hover{
+    transform: scale(0.94)}
+
+.golzzaimg{
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+.golzza h2{
+    color: black;
+    position: absolute;
+    left: 15px;
+    top: 220px;
+    
+}
+.golzza h4{
+    color: rgb(90, 90, 90);
+    position: absolute;
+    left: 15px;
+    top: 258px;
+    font-size: small;
+    
+}
+.golzza h5{
+    color: rgb(90, 90, 90);
+    position: absolute;
+    right: 25px;
+    top: 255px;
+    
+
+}
+.golzzarating{
+    font-size: 16px;
+    position: absolute;
+    right: 45px;
+    top: 245px;
+    color: white;
+    background-color: green;
+    width: 46px;
+    height: 20px;
+    border-radius: 4px;
+}
+.golzzarating p{
+    position: absolute;
+    top: -14px;
+    left: 7px;
+}
+.golzzarating i{
+    font-size: 8px;
+    position: absolute;
+    right:6px ;
+    top: 7px;
+}
+
+.container3{
+    position: absolute;
+    top: 1350px;
+    text-align: center;
+    left: 500px;
+    font-weight: 200;
+    font-size: 30px;
+}
+
+.container3 img{
+    position: absolute;
+    top: -10px;
+    left: 350px;
+}
+
+
+

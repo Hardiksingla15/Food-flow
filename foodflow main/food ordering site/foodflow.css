@@ -1,0 +1,310 @@
+
+.background{
+    position: absolute;
+    top: 0px;
+    border-radius: 0px;
+}
+.img1{
+    display: flex;
+    position: absolute;
+    top: 10px;
+    right:600px ;
+    border-radius: 50%;
+
+}
+.foodflowtext{position: absolute;
+    top: 164px;
+    right: 550px;
+    font-size: 30px;}
+    
+
+
+.addresturant{
+    height: 35px;
+    width: 174px;
+}
+.addresturant:hover{
+    background-color: black;
+}
+.login{
+    height: 35px;
+    width: 75px;
+    
+}
+.login:hover{
+    background-color: black;
+}
+
+
+.signup{
+    height: 35px;
+    width: 88px;
+
+}
+.signup:hover{
+    background-color: black;
+}
+.features{
+    display: flex;
+    width: 400px;
+    position: absolute;
+    top: 0px;
+    right: 40px;
+    justify-content: space-around;
+    font-size: 27px;
+    font-weight: bolder;
+}
+.search{display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 285px;
+    right: 532px;
+    size: 60px;
+
+}
+.search input{
+    width: 250px;
+    height: 27px;
+    border-radius: 12px;
+    box-shadow: 1px 1px 10px 1px black;
+}
+.searchicon{position: absolute;
+    top: 5px;
+    right: 300px;
+}
+
+.searchbutton{
+    text-align: center;
+    justify-content: center;
+    width: 60px;
+    background-color: white;
+    border-radius: 6px;
+    border: 2px solid black;
+}
+.searchbutton:hover{
+    color: white;
+    background-color: black;
+
+}
+.deldine{
+    height: 850px;
+}
+
+.box1{
+    background-color: rgb(255, 125, 125);
+    height: 500px;
+    width: 490px;
+    position: absolute;
+    top: 440px;
+    left: 230px;
+    border-radius: 20px;
+}
+.box1:hover{
+    height: 510px;
+    width: 495px;
+    border: 7px solid rgb(246, 63, 63);
+}
+.deliverybox{
+    position: relative;
+    right: 130px;
+    text-align: center;
+    height: 70px;
+    width: 520px;
+    border-radius: 10px;
+}
+
+.delivery{position: absolute;
+    left: 335px;
+    margin: 10px;
+    top: 700px;
+    font-size: 65px;
+    font-style: italic;
+    width: 520px;
+    border-radius: 20px;
+    height: 10px;
+ }
+
+    
+
+.deliveryimg{
+    position: absolute;
+    left: 272px;
+    top: 470px;
+    
+}
+
+
+.box2{
+    background-color:rgb(255, 125, 125) ;
+    height: 500px;
+    width: 490px;
+    position: absolute;
+    top: 439px;
+    right: 210px;
+    border-radius: 20px;
+}
+.box2:hover{
+    height: 510px;
+    width: 495px;
+    border: 7px solid rgb(246, 63, 63);
+
+}
+
+
+
+.dineout{position: absolute;
+top: 695px;
+right: 330px;
+margin: 20px;
+font-size: 65px;
+font-style: italic;}
+
+.dineoutbox{
+
+    
+    position: relative;
+    top: -5px;
+    left: 156px;
+    text-align: center;
+    height: 70px;
+    width: 521px;
+    border-radius: 10px;
+}
+
+.dineoutimg{position: absolute;
+
+right: 248px;
+top: 468px;
+border-radius: 10px;
+}
+
+img{
+    border-radius: 10px;
+}
+
+
+.popularlocalities{
+    position: absolute;
+    top: 950px;
+    left: 80px;
+    font-size: 45px;
+}
+    
+.localitiesbutton{
+
+    background-color: rgb(215, 209, 209);
+    height: 50px;
+    width: 100px;
+    position: absolute;
+    top: 1065px;
+    left: 80px;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid black;
+ }
+.localitiesbutton:hover{
+    color: white;
+    background-color:black;
+}
+.poploc{
+    height: 300px;
+   
+} 
+
+.all{
+    position: relative;
+    height: 500px;
+    top: 900px;
+    
+    background-color: rgb(255, 243, 243);
+   
+}
+.allfeatures{
+    position: absolute;
+    top: 0px;
+    right: 200px;
+}
+
+.a{font-size: 45px;}
+.b{font-size: 18px;}
+.c{position: absolute;
+top: 255px;
+right: 506px;}
+
+
+.googleplay{position: absolute;
+top: 300px;
+right: 464px;}
+
+.playstore{position: absolute;
+top: 300px;
+right: 270px;}
+
+.background3{position: absolute;
+top: 1600px;}
+
+.phone{position: absolute;
+top: 20px;
+left: 410px;}
+
+.button2{
+    position: absolute;
+    top:239px;
+    right:325px ;
+    text-align: center;
+    color: white;
+    width: 130px;
+    background-color: red;
+    border-radius: 5px;
+    border: 2px solid black;
+}
+ 
+.button2:hover{
+background-color: black;
+
+}
+
+.background4{position: absolute;
+top: 1708px;}
+
+    
+.all2{
+    position: absolute;
+    top: 1708px;
+    left: 50px;
+}
+    
+.logo{font-size: 40px;}
+    
+
+.all3{
+    position: absolute;
+    top: 1708px;
+    left: 350px;
+}
+
+.contact{font-size: 40px;}
+
+.all4{position: absolute;
+    top: 1708px;
+
+  left: 630px;}
+  
+.quicklink{font-size: 40px;}
+  
+.all5{position: absolute;
+    top: 1708px;
+
+  left: 900px;}
+  
+.newsletter{font-size: 40px;}
+  
+.all6{ position: absolute;
+    top: 1708px;
+    left: 1160px;}     
+.review{font-size:40px;}
+   
+
+
+
+    
