@@ -8,8 +8,8 @@
 body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
     line-height: 1.6;
-    color: #1a1a1a;
-    background-color: #f5f5f5;
+    color: #0b0a0a;
+    background-color: #e3d8d8;
 }
 
 /* Header styles */
@@ -32,9 +32,9 @@ body {
 }
 
 .logo {
-    font-size: 2rem;
+    font-size: 2.1rem;
     font-weight: bold;
-    background: linear-gradient(135deg, #ffffff, #ffffff);
+    background: linear-gradient(135deg, #e9b4b4, #ffffff);
     
     color: transparent;
 }
