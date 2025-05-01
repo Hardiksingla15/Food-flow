@@ -14,7 +14,7 @@
 .search{
     padding: 8px;
     display: flex;
-    background-color: white;
+    background-color: rgb(153, 149, 149);
     width: 380px;
     height: 40px;
     position: absolute;
@@ -37,7 +37,7 @@
 }
 
 .search i{
-    color: grey;
+    color: rgb(104, 103, 103);
     position: absolute;
     top: 20px;
     font-size: larger;
@@ -52,7 +52,7 @@
 }
 .signup{
     position: absolute;
-    right: -130px;
+    right: -131px;
 }
 
 .container{
