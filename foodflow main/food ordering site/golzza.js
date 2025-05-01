@@ -1,17 +1,17 @@
 // menu data 
 const menuItems = [
-    { id: 1, name: 'Aata Golgappe', price: 50, isVeg: true },
-    { id: 2, name: 'Suji Golgappe', price: 50, isVeg: true },
-    { id: 3, name: 'Dahi vada', price: 80, isVeg: true },
-    { id: 4, name: 'Samosa Chat', price: 80, isVeg: true },
-    { id: 5, name: 'Tikki Chat', price: 80, isVeg: true },
-    { id: 6, name: 'Aloo Wrap', price: 90, isVeg: true },
-    { id: 7, name: 'chole Kulche', price: 100, isVeg: true },
+    { id: 1, name: 'Aata Golgappe', price: 52, isVeg: true },
+    { id: 2, name: 'Suji Golgappe', price: 53, isVeg: true },
+    { id: 3, name: 'Dahi vada', price: 85, isVeg: true },
+    { id: 4, name: 'Samosa Chat', price: 75, isVeg: true },
+    { id: 5, name: 'Tikki Chat', price: 79, isVeg: true },
+    { id: 6, name: 'Aloo Wrap', price: 89, isVeg: true },
+    { id: 7, name: 'chole Kulche', price: 110, isVeg: true },
     { id: 8, name: 'Bhel Puri', price: 100, isVeg: true },
-    { id: 9, name: 'Sweet Corn Chat', price: 90, isVeg: true },
+    { id: 9, name: 'Sweet Corn Chat', price: 89, isVeg: true },
     { id: 10, name: 'Raj kachori', price: 90, isVeg: true },
-    { id: 11, name: 'Mango boba', price: 90, isVeg: true },
-    { id: 12, name: 'Chat Platter', price: 160, isVeg: true }
+    { id: 11, name: 'Mango boba', price: 92, isVeg: true },
+    { id: 12, name: 'Chat Platter', price: 165, isVeg: true }
 ];
 
 let cart = {}; // Object to store cart items
