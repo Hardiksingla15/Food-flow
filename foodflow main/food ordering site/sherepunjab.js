@@ -1,10 +1,10 @@
 // menu data 
 const menuItems = [
-    { id: 1, name: 'Dal Makhni', price: 180, isVeg: true },
-    { id: 2, name: 'Paneer Makhni', price: 260, isVeg: true },
-    { id: 3, name: 'Kadhai Chaap', price: 260, isVeg: true },
-    { id: 4, name: 'Paneer Butter Masala', price: 260, isVeg: true },
-    { id: 5, name: 'Shahi Paneer', price: 300, isVeg: true },
+    { id: 1, name: 'Dal Makhni', price: 180.00, isVeg: true },
+    { id: 2, name: 'Paneer Makhni', price: 260.00, isVeg: true },
+    { id: 3, name: 'Kadhai Chaap', price: 260.00, isVeg: true },
+    { id: 4, name: 'Paneer Butter Masala', price: 260.00, isVeg: true },
+    { id: 5, name: 'Shahi Paneer', price: 300.00, isVeg: true },
     { id: 6, name: 'Pindi Chole', price: 300, isVeg: true },
     { id: 7, name: 'Paneer Butter Masala', price: 260, isVeg: true },
     { id: 8, name: 'Paneer Sandwich', price: 60, isVeg: true },
