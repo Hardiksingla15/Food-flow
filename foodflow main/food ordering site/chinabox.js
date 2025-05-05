@@ -6,7 +6,7 @@ const menuItems = [
     { id: 4, name: 'Fries', price: 150, isVeg: true },
     { id: 5, name: 'Paneer Noodles', price: 170, isVeg: true },
     { id: 6, name: 'paneer Roll', price: 150, isVeg: true },
-    { id: 7, name: 'Paneer Wrap', price: 170, isVeg: true },
+    { id: 7, name: 'Paneer Wrap', price: 175, isVeg: true },
     { id: 8, name: 'Aloo Wrap', price: 100, isVeg: true },
     { id: 9, name: 'Paneer Sandwich', price: 120, isVeg: true },
     { id: 10, name: 'veg Sandwich', price: 120, isVeg: true },
