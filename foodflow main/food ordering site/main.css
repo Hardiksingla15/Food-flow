@@ -76,7 +76,7 @@ body {
 .login-btn, .signup-btn {
     text-decoration: none;
     padding: 0.5rem 1rem;
-    border-radius: 9999px;
+    border-radius: 9997px;
     font-weight: 500;
     transition: all 0.2s;
 }
