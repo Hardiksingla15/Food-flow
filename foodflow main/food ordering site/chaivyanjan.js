@@ -5,7 +5,7 @@ const menuItems = [
     { id: 3, name: 'masala chai', price: 29, isVeg: true },
     { id: 4, name: 'ilaichi chai', price: 29, isVeg: true },
     { id: 5, name: 'paneer wrap', price: 119, isVeg: true },
-    { id: 6, name: 'Aloo Wrap', price: 99, isVeg: true },
+    { id: 6, name: 'Aloo Wrap', price: 101, isVeg: true },
     { id: 7, name: 'Veg Wrap', price: 99, isVeg: true },
     { id: 8, name: 'Paneer Sandwich', price: 159, isVeg: true },
     { id: 9, name: 'veg sandwich', price: 90, isVeg: true },
