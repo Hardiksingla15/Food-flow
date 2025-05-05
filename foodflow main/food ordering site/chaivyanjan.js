@@ -1,6 +1,6 @@
 // menu data 
 const menuItems = [
-    { id: 1, name: 'adrak chai', price: 29, isVeg: true },
+    { id: 1, name: 'adrak chai', price: 31, isVeg: true },
     { id: 2, name: 'rose chai', price: 29 isVeg: true },
     { id: 3, name: 'masala chai', price: 29, isVeg: true },
     { id: 4, name: 'ilaichi chai', price: 29, isVeg: true },
