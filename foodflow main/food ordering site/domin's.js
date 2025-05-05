@@ -2,7 +2,7 @@
 const menuItems = [
     { id: 1, name: 'Paneer Pizza', price: 299, isVeg: true },
     { id: 2, name: 'Margherita Pizza', price: 199, isVeg: true },
-    { id: 3, name: 'Farmhouse Pizza', price: 299, isVeg: true },
+    { id: 3, name: 'Farmhouse Pizza ', price: 299, isVeg: true },
     { id: 4, name: 'Peppy Paneer Pizza', price: 399, isVeg: true },
     { id: 5, name: 'Garlic Bread', price: 149, isVeg: true },
     { id: 6, name: 'Stuffed Garlic Bread', price: 199, isVeg: true },
